@@ -1,0 +1,51 @@
+,District,Season,Soil_Type,Water,Electricity,Crop,Variety,Maintenance,Yield_Per_Acre,Notes
+0,Hoshangabad,Monsoon,Loamy,High,Medium,Moong,Sikha,Low,15.6,Requires proper care
+1,Hoshangabad,Summer,Loamy,Low,Low,Soybean,JS 335,Medium,21.4,Performs well under medium water
+2,Hoshangabad,Winter,Alluvial,Medium,Low,Mustard,Pusa Bold,Medium,17.5,Sprinkler irrigation recommended
+3,Hoshangabad,Winter,Loamy,Medium,High,Moong,139,High,5.7,Proper maintenance and fertilization
+4,Hoshangabad,Winter,Alluvial,Medium,Low,Moong,Sikha,Medium,20.7,Needs frequent irrigation
+5,Hoshangabad,Winter,Loamy,Medium,High,Wheat,GW 322,Low,13.7,Suitable for less irrigation
+6,Hoshangabad,Monsoon,Alluvial,Low,Low,Bajra,HHB-67,Medium,6.8,Suitable for medium rainfall
+7,Hoshangabad,Monsoon,Black,high,high,Paddy,P1,high,20.5,proper care needed
+8,Hoshangabad,Monsoon,Loamy,Low,Low,Bajra,HHB-67,Low,15.2,Sprinkler irrigation recommended
+9,Hoshangabad,Monsoon,Alluvial,High,Low,Moong,Sikha,Low,15.3,Requires proper care
+10,Hoshangabad,Winter,Black,High,Medium,Paddy,Kranti,Low,6.1,Suitable for less irrigation
+11,Hoshangabad,Summer,Alluvial,High,Low,Gram,JAKI-9218,Medium,25.9,Needs frequent irrigation
+12,Hoshangabad,Winter,Loamy,Medium,Low,Barley,RD-2552,Low,24.3,Needs frequent irrigation
+13,Hoshangabad,Winter,Alluvial,Medium,High,Wheat,GW 322,Low,13.7,Less fertilizer needed
+14,Hoshangabad,Winter,Black,High,High,Gram,JAKI-9218,Low,15.0,Proper maintenance and fertilization
+15,Hoshangabad,Monsoon,Black,Low,High,Gram,JAKI-9218,Low,14.0,Less fertilizer needed
+16,Hoshangabad,Winter,Loamy,Low,Low,Paddy,P1,High,27.4,Suitable for less irrigation
+17,Hoshangabad,Winter,Loamy,Low,High,Soybean,JS-93-05,Low,23.7,Less fertilizer needed
+18,Hoshangabad,Summer,Black,High,Low,Mustard,Pusa Bold,High,10.4,Requires proper care
+19,Hoshangabad,Summer,Alluvial,Low,Medium,Barley,RD-2552,High,11.3,Requires proper care
+20,Hoshangabad,Winter,Loamy,High,Medium,Paddy,Kranti,Low,17.1,Suitable for less irrigation
+21,Hoshangabad,Summer,Loamy,High,Low,Moong,139,High,26.2,Thrives in black soil
+22,Hoshangabad,Summer,Alluvial,High,High,Soybean,JS 335,Low,26.2,Thrives in black soil
+23,Hoshangabad,Summer,Loamy,High,High,Moong,Sikha,High,19.9,Less fertilizer needed
+24,Hoshangabad,Monsoon,Loamy,Medium,Medium,Gram,Dollar,Low,14.6,Proper maintenance and fertilization
+25,Hoshangabad,Summer,Black,High,Medium,Gram,JAKI-9218,Medium,22.2,Performs well under medium water
+26,Hoshangabad,Summer,Alluvial,Medium,Medium,Soybean,JS 335,Medium,11.3,Sprinkler irrigation recommended
+27,Hoshangabad,Monsoon,Alluvial,Medium,High,Wheat,GW 303,Medium,28.8,Needs frequent irrigation
+28,Hoshangabad,Monsoon,Alluvial,Low,Medium,Barley,RD-2552,High,28.7,Thrives in black soil
+29,Hoshangabad,Summer,Alluvial,Medium,Medium,Moong,Sikha,Medium,6.0,Thrives in black soil
+30,Hoshangabad,Monsoon,Alluvial,Medium,High,Gram,Dollar,Medium,6.8,Needs frequent irrigation
+31,Hoshangabad,Winter,Alluvial,High,Low,Moong,139,Low,24.5,Sprinkler irrigation recommended
+32,Hoshangabad,Summer,Alluvial,Medium,Low,Wheat,GW 322,Medium,19.1,Proper maintenance and fertilization
+33,Hoshangabad,Monsoon,Black,High,High,Barley,RD-2552,Medium,6.4,Sprinkler irrigation recommended
+34,Hoshangabad,Summer,Loamy,Medium,Medium,Maize,HQPM-1,High,21.4,Suitable for less irrigation
+35,Hoshangabad,Monsoon,Loamy,Low,Medium,Moong,139,High,22.4,Less fertilizer needed
+36,Hoshangabad,Summer,Alluvial,Low,Low,Wheat,GW 303,High,18.6,Suitable for medium rainfall
+37,Hoshangabad,Summer,Black,Medium,High,Wheat,GW 322,Low,29.7,Performs well under medium water
+38,Hoshangabad,Monsoon,Alluvial,Medium,High,Barley,RD-2552,Low,22.0,Suitable for less irrigation
+39,Hoshangabad,Summer,Alluvial,Low,Medium,Mustard,Pusa Bold,Medium,12.7,Thrives in black soil
+40,Hoshangabad,Monsoon,Black,High,Medium,Mustard,Pusa Bold,High,11.1,Suitable for less irrigation
+41,Hoshangabad,Summer,Alluvial,High,Medium,Soybean,JS-93-05,Medium,26.6,Requires proper care
+42,Hoshangabad,Winter,Black,High,High,Maize,HQPM-1,High,17.1,Thrives in black soil
+43,Hoshangabad,Monsoon,Alluvial,High,Medium,Soybean,JS-93-05,High,15.3,Suitable for medium rainfall
+44,Hoshangabad,Monsoon,Loamy,Medium,Medium,Moong,139,Medium,22.5,Sprinkler irrigation recommended
+45,Hoshangabad,Summer,Alluvial,High,Medium,Soybean,JS 335,High,24.8,Less fertilizer needed
+46,Hoshangabad,Monsoon,Alluvial,Medium,High,Paddy,P1,Medium,16.9,Sprinkler irrigation recommended
+47,Hoshangabad,Summer,Loamy,Medium,High,Gram,Dollar,Medium,16.2,Needs frequent irrigation
+48,Hoshangabad,Winter,Loamy,High,High,Paddy,P1,Low,6.1,Thrives in black soil
+49,Hoshangabad,Summer,Loamy,Medium,Low,Soybean,JS 335,Medium,8.0,Performs well under medium water
