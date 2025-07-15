@@ -8,4 +8,3 @@ services:
     startCommand: gunicorn backend.app:app
     runtime: python
     pythonVersion: 3.10.13
-
