@@ -2,7 +2,10 @@ services:
   - type: web
     name: smart-crop-app
     env: python
-    buildCommand: ""
-    startCommand: python backend/app.py
-    plan: free
     region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn backend.app:app
+    runtime: python
+    pythonVersion: 3.10.13
+
