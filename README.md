@@ -61,7 +61,6 @@ It helps farmers choose the **best crop and variety** for maximum yield and sust
 ```bash
 # Step 1: Clone the repo
 git clone https://github.com/Suryabhan-Patel/Smart-Crop-Recommendation-System.git
-cd your-repo-name
 
 # Step 2: Install dependencies
 pip install -r requirements.txt
